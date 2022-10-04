@@ -30,3 +30,11 @@ _Mar 2014 - September 2016_
 
 - Developed custom applications working directly with clients. These projects ranged from ETL batch jobs, reporting dashboards, to mobile applications.
 - Successfully advocated and executed a transition from an outdated PHP/MySQL/jquery stack to Node, MongoDB, AngularJS stack which greatly increased stability, performance and productivity.
+
+## Technical Skills
+- Typescript
+- React
+- Java
+- C++
+- Docker
+- AWS/Azure Cloud
