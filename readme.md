@@ -6,11 +6,13 @@ _**Principal Software Engineer**_
 Experienced software engineer adept at designing, maintaining, and scaling services and applications.  Proficient in various platforms and languages, both server side and client side. I am passionate about creating architecture that enables teams of engineers to deliver high quality software.
 
 ## Employment History
+___
 
 ### Principal Software Engineer, Whistic Inc.
 _August 2022 - Present_
 
 Currently responsible for leading the engineering organization through major architectural changes, including CI/CD, micro-services, and micro-frontends. I work closely with the Director of Engineering and team leads to establish appropriate technical standards and architecture to scale for future growth.
+___
 
 ### Software Engineer, Tech lead, Senior Engineer, Adobe Inc.
 _September 2016 - August 2022_
@@ -21,6 +23,7 @@ At Adobe I led the development of many features and architectural innovations. F
 - Transitioned from monthly releases to CI/CD (Jenkins, Azure)
 - React monorepo to micro-frontends in order to scale from 10 UI developers to 50-60 developers across several teams
 - I was part of a cross-team architecture squad that plans and develops scalable architecture for the organization
+___
 
 ### Junior Engineer
 _Mar 2014 - September 2016_
